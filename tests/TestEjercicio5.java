@@ -4,7 +4,7 @@ import org.junit.jupiter.params.provider.CsvSource;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 @DisplayName("Pruebas Ejercicio 5 - Días de Cátedra")
-public class Ejercicio5Test {
+public class TestEjercicio5 {
 
     @ParameterizedTest(name = "Para el día ''{0}'' se espera: \"{1}\"")
     @CsvSource({
