@@ -1,9 +1,13 @@
-# UNPA-UARG - 2025
+# Trabajo Práctico Nº 1: JAVA
+
+**UNPA-UARG**
+
 **Carreras:** Analista de Sistemas y Licenciatura en Sistemas  
 **Asignatura:** Programación de Algoritmos  
 
-**Trabajo Práctico Nº 1**  
-**Tema:** JAVA  
+
+
+
 
 **Profesores de Práctica:**  
 - Lic. Franco Herrera  
