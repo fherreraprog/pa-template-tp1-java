@@ -10,7 +10,7 @@ public class TestEjercicio5 {
     @CsvSource({
         "L, HOY TENGO RESOLUCION",
         "M, NO TENGO RESOLUCION", // Suponiendo días específicos de tu cátedra
-        "I, HOY TENGO RESOLUCION",
+        "I, DIA INVALIDO",
         "X, DIA INVALIDO"         // Caso de borde: Entrada errónea
     })
     void testDiasCatedra(char dia, String mensajeEsperado) {
